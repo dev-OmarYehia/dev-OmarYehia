@@ -1,1 +1,3 @@
-# Omar Yehia  Junior DevOps Engineer  ## Skills  - Linux - Bash - Git - Docker - GitHub Actions - AWS  ## Projects  - Production DevOps Platform - Linux Admin Lab - Docker Nginx App - GitHub Actions CI/CD
+23-years-old programmer based in Egypt
+Junior DevOps Engineer
+ Skills  - Linux - Bash - Git - Docker - GitHub Actions - AWS  ## Projects  - Production DevOps Platform - Linux Admin Lab - Docker Nginx App - GitHub Actions CI/CD
