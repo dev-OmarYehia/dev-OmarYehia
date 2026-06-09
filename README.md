@@ -94,7 +94,7 @@ Collection of Bash and Python scripts for:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="www.linkedin.com/in/omar-y-b51210211">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
