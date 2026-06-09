@@ -40,5 +40,11 @@ Git & GitHub
 
 ## Connect With Me
 
-LinkedIn
-Email
+## 🌍 Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/
+omar-y-b51210211
+)
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:omaryehia138@gmail.com
+)
