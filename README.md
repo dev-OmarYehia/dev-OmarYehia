@@ -83,13 +83,9 @@ Collection of Bash and Python scripts for:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-OmarYehia&layout=compact&theme=github_dark&hide_border=true)
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dev-OmarYehia&theme=dark&hide_border=true)
 
 ---
+
 
 ## 🌐 Connect With Me
 
