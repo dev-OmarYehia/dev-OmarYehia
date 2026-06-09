@@ -1,47 +1,110 @@
-# Hi, I'm Omar Yehia 👋
+# Hi 👋, I'm Omar Yehia
 
-🚀 Junior DevOps Engineer from Egypt
+### Junior DevOps Engineer | Linux Enthusiast | Cloud Learner
 
-## About Me
-- 🌱 Currently learning AWS & Kubernetes
-- 🐧 Linux Enthusiast
-- ⚙️ Automating infrastructure with Bash & Python
-- 🔭 Building DevOps Projects
+<p align="left">
+I am a Junior DevOps Engineer from Egypt passionate about Linux, Cloud Computing, Automation, and Infrastructure. Currently focusing on building hands-on projects with Docker, GitHub Actions, AWS, and Kubernetes.
+</p>
 
-## Tech Stack
+---
 
-### Cloud
-AWS
+## 🚀 About Me
 
-### Containers
-Docker
+- 🐧 Strong interest in Linux Administration
+- ⚙️ Learning DevOps Engineering through real projects
+- ☁️ Currently studying AWS & Cloud Fundamentals
+- 🔄 Building CI/CD pipelines using GitHub Actions
+- 📚 Learning Kubernetes & Infrastructure as Code
+- 🎯 Goal: Become a Professional DevOps Engineer
 
-### CI/CD
-GitHub Actions
+---
 
-### OS & Scripting
-Linux, Bash, Python
+## 🛠️ Technologies & Tools
+
+### Operating Systems & Scripting
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,python)](https://skillicons.dev)
 
 ### Version Control
-Git & GitHub
 
-## Projects
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-### Production DevOps Platform
-- Dockerized application
+### Containers & Orchestration
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
+### CI/CD
+
+[![My Skills](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
+
+### Cloud
+
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+### Development
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript)](https://skillicons.dev)
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 Production DevOps Platform
+
+A complete DevOps project featuring:
+
+- Docker Containerization
 - GitHub Actions CI/CD
 - AWS Deployment
-- Monitoring Setup
+- Infrastructure Automation
 
-### Mihrab Academy
+### 🎓 Mihrab Academy
+
+Modern web platform built using:
+
 - Next.js
 - TypeScript
 - Responsive Design
 
-## Connect With Me
+### 🐧 Linux Automation Scripts
 
-## 🌍 Connect With Me
+Collection of Bash and Python scripts for:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/omar-y-b51210211)
+- User Management
+- Backup Automation
+- System Monitoring
+- Log Analysis
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:omaryehia138@gmail.com)
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-OmarYehia&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-OmarYehia&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dev-OmarYehia&theme=dark&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:omaryehia138@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+### 💡 Favorite DevOps Quote
+
+> Automate everything that can be automated.
