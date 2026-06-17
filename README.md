@@ -77,16 +77,6 @@ Collection of Bash and Python scripts for:
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-OmarYehia&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-OmarYehia&layout=compact&theme=github_dark&hide_border=true)
-
-
----
-
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -98,9 +88,3 @@ Collection of Bash and Python scripts for:
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
-
----
-
-### 💡 Favorite DevOps Quote
-
-> Automate everything that can be automated.
