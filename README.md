@@ -49,14 +49,6 @@ I am a Junior DevOps Engineer from Egypt passionate about Linux, Cloud Computing
 
 ## 📂 Featured Projects
 
-### 🚀 Production DevOps Platform
-
-A complete DevOps project featuring:
-
-- Docker Containerization
-- GitHub Actions CI/CD
-- AWS Deployment
-- Infrastructure Automation
 
 ### 🎓 Mihrab Academy
 
@@ -65,15 +57,6 @@ Modern web platform built using:
 - Next.js
 - TypeScript
 - Responsive Design
-
-### 🐧 Linux Automation Scripts
-
-Collection of Bash and Python scripts for:
-
-- User Management
-- Backup Automation
-- System Monitoring
-- Log Analysis
 
 ---
 
