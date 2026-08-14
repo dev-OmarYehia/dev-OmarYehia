@@ -1,6 +1,6 @@
 # Hi 👋, I'm Omar Yehia
 
-### Junior DevOps Engineer | Linux Enthusiast | Cloud Learner
+### Junior DevOps Engineer 
 
 <p align="left">
 I am a Junior DevOps Engineer from Egypt passionate about Linux, Cloud Computing, Automation, and Infrastructure. Currently focusing on building hands-on projects with Docker, GitHub Actions, AWS, and Kubernetes.
